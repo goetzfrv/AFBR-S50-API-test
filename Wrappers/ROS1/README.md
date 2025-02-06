@@ -62,12 +62,15 @@ $ chmod -R 777 ~/s50_tof_driver/
 $ roslaunch pointcloud_tof pointcloud.launch
 ```
 
-We tested an example implementation on a turtlebot using 5 x sensors boards.
-(https://www.mikroe.com/bdc-afbr-s50-tof-sensor-board#/279-tof_sensor_board-bdc_afbr_s50mv85i)
+For visualization and application tests an example implementation on a turtlebot using 5 x sensors boards is used.  
+(https://www.mikroe.com/bdc-afbr-s50-tof-sensor-board#/279-tof_sensor_board-bdc_afbr_s50mv85i)  
+
 ![turtle](media/turtle.png)
 
-The next image shows the streamlined sensor data via Rviz showing a pointcloud of 5 x 32 pixels into the 3D-space.
+The next image shows the streamlined sensor data via Rviz showing a pointcloud of 5 x 32 pixels into the 3D-space.  
+
 ![Rviz](media/Rviz.png)
 
-Here is an application video showing the capability of AFBR-S50 sensor for cliff detection.
+Here is an application video showing the capability of AFBR-S50 sensor for cliff detection.  
+
 ![cliff](media/cliff.mp4)
