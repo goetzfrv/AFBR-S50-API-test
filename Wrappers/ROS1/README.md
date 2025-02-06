@@ -39,7 +39,7 @@ $ source ~/s50_tof_driver/devel/setup.bash
 * Connect a bunch tof sensors through the CAN interface (e.g. https://www.mikroe.com/bdc-afbr-s50-tof-sensor-board#/279-tof_sensor_board-bdc_afbr_s50mv85i) to form a daisy chain
 * Connect the Tof sensor to the USB port of your Ubuntu PC via USB TO UART module
 
-![connection](media/connection.png)
+![connection](media/daisychain.png)
 
 
 ### Launching Software ###
