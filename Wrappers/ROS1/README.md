@@ -75,5 +75,5 @@ Here is an application video showing the capability of AFBR-S50 sensor for cliff
 
 ![cliff](media/cliff.gif)  
 
-The video above shows the capability of Broadcom ToF sensors to be used for cliff and void detection on AMRs/AGVs. While the LIDAR (red dots) just so the side walls,
-the downwards oriented ToF sensors (white point cloud) clearly detects the platform edge and initiates a direction change.
+The video above shows the capability of Broadcom ToF sensors to be used for cliff and void detection on AMRs/AGVs. While the LIDAR (red dots) just see the side walls,
+the downwards oriented ToF sensors (white point cloud) clearly detect the platform edges and initiates a direction change.
